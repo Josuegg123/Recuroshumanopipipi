@@ -1,0 +1,13 @@
+.btn-azul {
+  background: linear-gradient(135deg, #4facfe, #176BAA);
+  border: none;
+  color: white;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn-azul:hover {
+  background: linear-gradient(135deg, #3a8dff, #135A8D);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(23, 107, 170, 0.4);
+}
